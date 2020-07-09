@@ -1,0 +1,5 @@
+client_number = str(input("Нужно ввести число >>>  "))
+client_number_2 = str(client_number) + str(client_number)
+client_number_3 = str(client_number) + str(client_number) +str(client_number)
+result = int(client_number) + int(client_number_2) + int(client_number_3)
+print(result)
