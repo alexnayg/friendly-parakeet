@@ -1,1 +1,1 @@
-git branch -m old_branch new_branch
+Я непонимаю это гребаный гит
